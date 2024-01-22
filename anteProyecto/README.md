@@ -2,7 +2,7 @@
 
 # Anteproyecto - (Proyecto-Biblioteca)
 
-## Nerea Glez
+## Daniel Alejandro Rodríguez Herrera
 ### 1º DAM
 <div align="center">
 <img src="img/biblioteca.jpg" />
