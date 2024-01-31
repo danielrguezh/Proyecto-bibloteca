@@ -1,4 +1,4 @@
-# Proyecto Biblioteca 1 DAM Daniel Alejandro Rodriguez Herrera y Nerea González Pérez
+# Proyecto Biblioteca 1 DAM Daniel Alejandro Rodriguez Herrera
 
 ### Indice
 - [Enunciado](#enunciado)
@@ -29,7 +29,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _N/D_  |
 |  Notas |  _Puede suceder una post condición_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 2  |
@@ -42,7 +42,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _Identificar libro_  |
 |  Notas |  _N/D_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 3  |
@@ -55,7 +55,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _N/D_  |
 |  Notas |  _Puede suceder una post condición_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 4  |
