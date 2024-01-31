@@ -68,7 +68,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _Identificar libro_  |
 |  Notas |  _N/D_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 5  |
@@ -81,7 +81,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _N/D_  |
 |  Notas |  _Puede suceder una post condición_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 6  |
@@ -94,7 +94,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _N/D_  |
 |  Notas |  _N/D_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 7  |
@@ -107,7 +107,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _Identificar libro_  |
 |  Notas |  _N/D_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 8  |
@@ -120,7 +120,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _Identificar libro_  |
 |  Notas |  _N/D_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 9  |
@@ -133,7 +133,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _Identificar libro_  |
 |  Notas |  _N/D_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 |  Caso de Uso	CU | 10  |
@@ -146,7 +146,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 | Post-condiciones  | _N/D_  |  
 |  Requerimientos | _Identificar libro_  |
 |  Notas |  _N/D_ |
-| Autor  | _Daniel Alejandro Rodriguez Herrera y Nerea González Pérez_ |
+| Autor  | _Daniel Alejandro Rodriguez Herrera_ |
 |Fecha | _20/12/2023_ |
 
 ## Diagrama de clases
