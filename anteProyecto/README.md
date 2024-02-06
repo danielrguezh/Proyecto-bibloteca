@@ -10,10 +10,10 @@
 
 ## Indice
 
-- [Enunciado](../README.md/#enunciado)
-- [Diagrama CU](../README.md)
-- [Tablas CU](../README.md/#tabla-de-casos-de-uso)
-- [Diagrama de clases](../README.md)
+- [Enunciado](../Diagramas-cu-y-clases/README.md/#enunciado)
+- [Diagrama CU](../Diagramas-cu-y-clases/README.md)
+- [Tablas CU](../Diagramas-cu-y-clases/README.md/#tabla-de-casos-de-uso)
+- [Diagrama de clases](../Diagramas-cu-y-clases/README.md)
 
 ### Descripción del problema.
 

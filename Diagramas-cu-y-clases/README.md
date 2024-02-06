@@ -15,7 +15,7 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 
 ## Diagrama de Casos de usos
 
-<img src="Diagramas/DiagramaDeCasosDeUsos.png">
+<img src="img/DiagramaDeCasosDeUsos.png">
 
 ## Tabla de casos de uso
 
@@ -151,4 +151,4 @@ https://github.com/jpexposito/docencia/tree/master/Primero/ETS/PROYECTO
 
 ## Diagrama de clases
 
-<img src="Diagramas/DiagramaClase.png">
+<img src="img/DiagramaClase.png">
